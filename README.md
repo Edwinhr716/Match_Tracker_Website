@@ -1,6 +1,6 @@
 # Match_Tracker_Website
 
-Full stack project that collects data from livesoccertv.com, stores it in an SQL database and connects to the front end wit han API. The front end is written with ReactJS
+Full stack project that collects data from livesoccertv.com, stores it in an SQL database and connects to the front end wit han API. The front end is written with ReactJS. It tracks the matches of the Guatemala and Honduras national teams, as well as Austin FC's matches
 
 # What I learned 
 * How to use ReactJS
