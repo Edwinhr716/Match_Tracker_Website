@@ -7,3 +7,6 @@ Full stack project that collects data from livesoccertv.com, stores it in an SQL
 * Creating an API using FastAPI
 * Scrapping data from a website 
 
+# How it looks 
+
+![Screenshot (66)](https://user-images.githubusercontent.com/86417275/148292059-344953b3-d045-4094-84ad-1219ae8b2fbc.png)
