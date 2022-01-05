@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400&display=swap');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+.container{
+  margin : 2rem auto;
+  overflow: auto;
+  padding : 1rem;
+}
+
+.mainLayout{
+  margin-top : 5rem;
+  display: inline-block;
+}
+
+.MainPage{
+
+  width : 100rem;
+  max-height : 100%;
+  float : left;
+  padding-top : 5rem;
+  margin-left : 5rem;
+
+}
+
+header{
+  margin-bottom : 3rem;
+}
+
+.Title{
+  float : left; 
+}
+
+.aboutButton{
+    border : none;
+    float : right;
+    background-color : transparent;
+    margin-right : 5rem;
+    margin-bottom : 2rem;
+    font-size : 1.5rem;
+}
+
+.aboutButton:hover {
+  opacity : 50%;
+}
+
+.sidePanel{
+  float : left;
+  max-width: 10rem;
+   margin-left : 5rem auto;
+   border-right : black solid;
+   max-height : 100%;
+   padding-bottom: 25rem;
+}
+
+
+.btn {
+  background-color : transparent;
+  display: inline-block;
+  color: black;
+  padding: 1rem 2rem;
+  margin-top : 3rem;
+  cursor: pointer;
+  border : none;
+  font-size: 15px;
+  font-family: inherit;
+  color : transparent;
+}
+
+.btn:focus {
+  outline: none;
+}
+
+.btn:active {
+  transform: scale(0.98);
+}
+
+.btn:hover {
+  opacity : 50%;
+}
+
+.btn-block {
+  display: block;
+  width: 100%;
+}
+
+.matchLine{
+  display: grid;
+  grid-template-columns: 30rem 10rem 10rem;
+  padding : 1rem;
+}
+
+#Score{
+  
+}
+
+#date{
+  
+}
+
+#competition{
+ 
+}
